@@ -1,0 +1,52 @@
+.text-center {
+    text-align: center;
+    margin: 20px;
+}
+
+.title-20 {
+    padding-bottom: 20px
+}
+
+.img-right {
+    float: right;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.img-left {
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+
+
+.img-bottom {
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+
+.li-bottom {
+    position: relative;
+    left: 25px;
+}
+
+p {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+h2 {
+    margin-left: 15px;
+}
+
+.lefting {
+    margin-left: 25px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
