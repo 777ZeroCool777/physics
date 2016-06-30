@@ -1,1 +1,1 @@
-[Страничка с физиками](http://777zerocool777.github.io/physics)
+[Страничка с физиками](http://exwarvlad.github.io/physics)
